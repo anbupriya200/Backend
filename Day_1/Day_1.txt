@@ -1,0 +1,10 @@
+1)write about interpreter and compiler?
+
+		A compiler and an interpreter are both system software programs that translate human-readable source code (written in a high-level language like C or Python) into low-level machine code or intermediate instructions that a computer's central processing unit (CPU) can execute.
+
+
+
+2)write about object oriented programming approach?
+
+		Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around data, or objects, rather than functions and logic. It models real-world entities by bundling their characteristics (attributes) and behaviors (methods) into single, modular units.
+
